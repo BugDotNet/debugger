@@ -4,7 +4,8 @@
 
 <!-- Project badges -->
 <p align="center">
-  <a title="A link to the project's license file." href="https://github.com/BugDotNet/debugger/blob/main/license.md"><img alt="A status badge for the project's license." src="https://img.shields.io/github/license/BugDotNet/debugger"></a>
+  <a title="A link to the project's license file." href="https://github.com/BugDotNet/debugger/blob/main/license.md"><img alt="A status badge for the project's license." src="https://img.shields.io/badge/license-MIT-brightgreen
+  "></a>
   <a title="A link to the project's contributors" href="https://github.com/BugDotNet/debugger/graphs/contributors"><img alt="A status badge for the project's contributors." src="https://img.shields.io/github/contributors/BugDotNet/debugger"></a>
   <a title="A link to the Bug.NET discussions" href="https://github.com/orgs/BugDotNet/discussions"><img alt="A status badge for the Bug.NET discussions." src="https://img.shields.io/github/discussions/BugDotNet/.github"></a>
   <!-- <br> --> <!-- Release badges - only uncomment once the first release is made -->
